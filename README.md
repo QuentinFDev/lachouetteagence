@@ -3,4 +3,5 @@ projet P4 Openclassrooms
 
 
 
--->25/04/2020 mise en ligne du site pour détection des problèmes
+-->25/04/2020 mise en ligne du site pour détection des problèmes, rajout de la page google analytics
+
